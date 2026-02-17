@@ -41,7 +41,7 @@ Concepts
 
 🚀 Featured Projects
 
-🤖 DOTBOT – AI Chatbot  
+🤖 AccessAI – AI Chatbot  
 - AI chatbot with text, voice, and gesture interaction  
 - Integrated OpenAI GPT & MediaPipe  
 - Tech: React, Node.js, MongoDB  
