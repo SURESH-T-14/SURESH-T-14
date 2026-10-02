@@ -1,0 +1,32 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f2a6cf" />
+      <stop offset="50%" stop-color="#b45bd4" />
+      <stop offset="100%" stop-color="#6414d9" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0d1117" />
+  <path
+    d="M0 0 H1200 V190 C1150 260 1100 260 1050 190 C1000 120 950 120 900 190 C850 260 800 260 750 190 C700 120 650 120 600 190 C550 260 500 260 450 190 C400 120 350 120 300 190 C250 260 200 260 150 190 C100 120 50 120 0 190 Z"
+    fill="url(#gradient)"
+  />
+  <text
+    x="600"
+    y="100"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-family="Arial, sans-serif"
+    font-size="58"
+    font-weight="700"
+  >SURESH T</text>
+  <text
+    x="600"
+    y="150"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-family="Arial, sans-serif"
+    font-size="25"
+  >SOFTWARE ENGINEER | AI ENGINEER</text>
+</svg>
