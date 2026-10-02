@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=SURESH-T-14&amp;theme=redical&amp;hide_border=true&amp;color=f72585&amp;line=4cc9f0&amp;point=ffffff" alt="Suresh's GitHub contribution graph" />
+	<img src="https://ghchart.rshah.org/4CC9F0/SURESH-T-14" alt="Suresh's GitHub contribution graph" width="100%" />
 </p>
 
 ## Let's Connect
